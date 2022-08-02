@@ -53,7 +53,7 @@ class AIPlayer(Player):
             score += 1
 
         if window.count(opp_token) == 3 and window.count(self._board.empty_token) == 1:
-            score -= 4
+            score -= 10
 
         return score
 

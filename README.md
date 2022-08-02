@@ -6,8 +6,7 @@ This is the source code repository of the KI (Küstliche Intelligenz) project fo
 The goal of this project is to create a simple ["Connect 4"](https://en.wikipedia.org/wiki/Connect_Four) game console application running inside a docker container managed by docker compose.
 The application is going to be started with docker-compose running the python app in an interactive manner.
 
-[Link to repository](https://mygit.th-deg.de/ds16028/psta-software-engineering-ki4)
-Clone repository: `git clone https://mygit.th-deg.de/ds16028/psta-software-engineering-ki4.git`
+Clone repository: `git clone https://github.com/Bryanbu2014/Connect-Four.git`
 
 ## Requirements
 
